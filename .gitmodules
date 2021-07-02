@@ -1,0 +1,10 @@
+[submodule "python"]
+	path = python
+	url = https://github.com/fileTestSuite/fileTestSuite.py
+	branch = master
+	shallow = true
+[submodule "C"]
+	path = C
+	url = https://github.com/fileTestSuite/fileTestSuite.c
+	branch = master
+	shallow = true

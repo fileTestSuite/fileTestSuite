@@ -1,0 +1,10 @@
+{
+	"compressedExt": "pk",
+	"decompressedExt": "txt",
+	"parameters":{
+		"*":{
+			"dictionarySize": 1024,
+			"mode": "binary"
+		}
+	}
+}
